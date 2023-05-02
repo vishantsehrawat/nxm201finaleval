@@ -1,0 +1,6 @@
+const regex = //
+
+function validIp(ip){
+    return regex.test(ip)
+}
+ validIp(ip)
